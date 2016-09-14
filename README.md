@@ -1,2 +1,2 @@
-# orientale
+# Orientale
 The Orientale Pontifical Institute
